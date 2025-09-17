@@ -1,4 +1,4 @@
-import SpeechRecognition as sr
+import speechrecognition as sr
 import pyttsx3
 import google.generativeai as genai
 import subprocess
